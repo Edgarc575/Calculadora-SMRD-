@@ -1,0 +1,10 @@
+C:\Users\Edgardo Caceres\Documents\GitHub\Calculadora-SMRD-\Calculadora_Sencilla_Csharp\Calculadora_Sencilla_Csharp\bin\Debug\Calculadora_Sencilla_Csharp.exe.config
+C:\Users\Edgardo Caceres\Documents\GitHub\Calculadora-SMRD-\Calculadora_Sencilla_Csharp\Calculadora_Sencilla_Csharp\bin\Debug\Calculadora_Sencilla_Csharp.exe
+C:\Users\Edgardo Caceres\Documents\GitHub\Calculadora-SMRD-\Calculadora_Sencilla_Csharp\Calculadora_Sencilla_Csharp\bin\Debug\Calculadora_Sencilla_Csharp.pdb
+C:\Users\Edgardo Caceres\Documents\GitHub\Calculadora-SMRD-\Calculadora_Sencilla_Csharp\Calculadora_Sencilla_Csharp\obj\Debug\Calculadora_Sencilla_Csharp.csproj.AssemblyReference.cache
+C:\Users\Edgardo Caceres\Documents\GitHub\Calculadora-SMRD-\Calculadora_Sencilla_Csharp\Calculadora_Sencilla_Csharp\obj\Debug\Calculadora_Sencilla_Csharp.Form1.resources
+C:\Users\Edgardo Caceres\Documents\GitHub\Calculadora-SMRD-\Calculadora_Sencilla_Csharp\Calculadora_Sencilla_Csharp\obj\Debug\Calculadora_Sencilla_Csharp.Properties.Resources.resources
+C:\Users\Edgardo Caceres\Documents\GitHub\Calculadora-SMRD-\Calculadora_Sencilla_Csharp\Calculadora_Sencilla_Csharp\obj\Debug\Calculadora_Sencilla_Csharp.csproj.GenerateResource.cache
+C:\Users\Edgardo Caceres\Documents\GitHub\Calculadora-SMRD-\Calculadora_Sencilla_Csharp\Calculadora_Sencilla_Csharp\obj\Debug\Calculadora_Sencilla_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Edgardo Caceres\Documents\GitHub\Calculadora-SMRD-\Calculadora_Sencilla_Csharp\Calculadora_Sencilla_Csharp\obj\Debug\Calculadora_Sencilla_Csharp.exe
+C:\Users\Edgardo Caceres\Documents\GitHub\Calculadora-SMRD-\Calculadora_Sencilla_Csharp\Calculadora_Sencilla_Csharp\obj\Debug\Calculadora_Sencilla_Csharp.pdb
